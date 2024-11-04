@@ -1,0 +1,9 @@
+﻿  PThreads.cpp
+C:\Users\trian\Desktop\8th Semester\Parallel Programming\PThreads\PThreads\PThreads.cpp(268,68): warning C4244: '=': conversion from '_Ty' to 'unsigned char', possible loss of data
+C:\Users\trian\Desktop\8th Semester\Parallel Programming\PThreads\PThreads\PThreads.cpp(268,68): warning C4244:         with
+C:\Users\trian\Desktop\8th Semester\Parallel Programming\PThreads\PThreads\PThreads.cpp(268,68): warning C4244:         [
+C:\Users\trian\Desktop\8th Semester\Parallel Programming\PThreads\PThreads\PThreads.cpp(268,68): warning C4244:             _Ty=double
+C:\Users\trian\Desktop\8th Semester\Parallel Programming\PThreads\PThreads\PThreads.cpp(268,68): warning C4244:         ]
+  PThreads.vcxproj -> C:\Users\trian\Desktop\8th Semester\Parallel Programming\PThreads\x64\Debug\PThreads.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

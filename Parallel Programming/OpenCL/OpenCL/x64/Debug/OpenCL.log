@@ -1,0 +1,5 @@
+﻿  OpenCL.cpp
+C:\Users\trian\Desktop\8th Semester\Parallel Programming\OpenCL\OpenCL\OpenCL.cpp(114,46): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+C:\Users\trian\Desktop\8th Semester\Parallel Programming\OpenCL\OpenCL\OpenCL.cpp(114,72): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+C:\Users\trian\Desktop\8th Semester\Parallel Programming\OpenCL\OpenCL\OpenCL.cpp(114,98): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+  OpenCL.vcxproj -> C:\Users\trian\Desktop\8th Semester\Parallel Programming\OpenCL\x64\Debug\OpenCL.exe
